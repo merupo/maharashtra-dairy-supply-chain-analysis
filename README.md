@@ -2,7 +2,7 @@
 
 ### A Python + Excel analysis of district-wise milk procurement and distribution across Maharashtra, built from real government open data (data.gov.in) — examining sector structure, geographic concentration, and self-sufficiency across 33 districts.
 
-<a href=''>View the Dashboard</a>
+<a href='https://github.com/merupo/maharashtra-dairy-supply-chain-analysis/blob/main/maharashtra_dairy_supply_chain_analysis_files/Dashboard.png'>View the Dashboard</a>
 
 # Business Question
 
@@ -36,7 +36,7 @@ My dad works at Heritage Foods, one of India's major private dairy players, whic
 - **Major cities are import-dependent, not self-sufficient:** Thane (0.5%), Raigad (0%), and Nagpur (28%) rely almost entirely on external supply rather than local procurement
 - **Channel mix varies by region:** Nagpur and Konkan move milk primarily through direct pouch sale (80%+), while Aurangabad and Amravati lean on retail sale
 
-Full findings and methodology: <a href=''>Maharashtra_Dairy_Supply_Chain_Case_Study</a>
+Full findings and methodology: <a href='https://github.com/merupo/maharashtra-dairy-supply-chain-analysis/blob/main/maharashtra_dairy_supply_chain_analysis_files/Maharashtra_Dairy_Supply_Chain_Case_Study.docx'>Maharashtra_Dairy_Supply_Chain_Case_Study</a>
 
 # Data Quality Note
 
