@@ -36,6 +36,9 @@ My dad works at Heritage Foods, one of India's major private dairy players, whic
 - **Major cities are import-dependent, not self-sufficient:** Thane (0.5%), Raigad (0%), and Nagpur (28%) rely almost entirely on external supply rather than local procurement
 - **Channel mix varies by region:** Nagpur and Konkan move milk primarily through direct pouch sale (80%+), while Aurangabad and Amravati lean on retail sale
 
+# Dashboard
+<img width="1054" height="736" alt="Dashboard" src="https://github.com/user-attachments/assets/bdf7007c-dbeb-4abe-bb62-588ff3db79ba" />
+
 Full findings and methodology: <a href='https://github.com/merupo/maharashtra-dairy-supply-chain-analysis/blob/main/maharashtra_dairy_supply_chain_analysis_files/Maharashtra_Dairy_Supply_Chain_Case_Study.docx'>Maharashtra_Dairy_Supply_Chain_Case_Study</a>
 
 ## Data Quality Note
