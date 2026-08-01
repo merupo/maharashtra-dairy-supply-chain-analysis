@@ -15,7 +15,7 @@ My dad works at Heritage Foods, one of India's major private dairy players, whic
 ## Dataset
 - Source: <a href='https://ap.data.gov.in/resource/district-wise-milk-procurement-and-distribution-report-day-lakhs-state-maharashtra-july'>District-wise Milk Procurement and Distribution Report, Maharashtra Dairy Development Department (data.gov.in), July 2025</a>
 - Coverage: 33 districts across 6 administrative divisions (Pune, Nashik, Aurangabad, Konkan, Amravati, Nagpur), July 2025
-- Note: Raw government data required real cleaning, embedded regional subtotal rows, inconsistent district name abbreviations, and a corrupted column header were all addressed during processing <a href='https://github.com/merupo/maharashtra-dairy-supply-chain-analysis/blob/main/maharashtra_dairy_supply_chain_analysis_files/Maharashtra_Dairy_Supply_Chain_Analysis.ipynb'>(see notebook)</a>
+- Note: Raw government data required real cleaning, embedded regional subtotal rows, inconsistent district name abbreviations, and a corrupted column header were all addressed during processing <a href='https://github.com/merupo/maharashtra-dairy-supply-chain-analysis/blob/main/maharashtra_dairy_supply_chain_analysis_files/Maharashtra_Dairy_Supply_Chain_Analysis.ipynb'>(see Google Colab)</a>
 
 ## KPIs
 | KPI | Definition | Purpose |
